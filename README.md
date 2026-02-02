@@ -119,7 +119,8 @@ client_socket.send("Acknowledgement received from the client.".encode())
 client_socket.close()
 ```
 ## Output:
-![alt text](<../Screenshot 2026-02-02 180207.png>)
-![alt text](<../Screenshot 2026-02-02 180227.png>)
+<img width="660" height="110" alt="Screenshot 2026-02-02 180207" src="https://github.com/user-attachments/assets/4664c81d-b9b9-4ecb-a6fe-9468e5a91b02" />
+<img width="614" height="66" alt="Screenshot 2026-02-02 180227" src="https://github.com/user-attachments/assets/214a59e4-f9ff-4283-8e04-dc72374938f1" />
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
